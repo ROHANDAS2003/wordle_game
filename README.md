@@ -1,4 +1,4 @@
-﻿**Wordle Game Documentation**
+﻿# Wordle Game Documentation
 ## Abbreviations
 1. **cls**: Command to clear the screen in the command-line interface (CLI). Used in the play\_wordle.py script to clear the screen before displaying the game menu.
 1. **txt**: File extension for text files. Used in wordle\_words.txt, which contains a list of words for the game.
@@ -26,7 +26,7 @@ To clone the Wordle Game project from GitHub, follow these steps:
 
 1. Open your terminal (Command Prompt, PowerShell, or any other terminal emulator).
 1. Navigate to the directory where you want to clone the repository.
-1. Run the following command: git clone wordle\_game
+1. Run the following command: git clone https://github.com/ROHANDAS2003/wordle_game
 1. Navigate into the cloned repository directory: cd wordle\_game
 ## Dependencies
 The Wordle Game depends on the following:
