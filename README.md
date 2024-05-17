@@ -1,4 +1,4 @@
-![Wordle Image](/imgs/1.png)
+![Wordle Image](/imgs/1.png) ![Wordle Image](/imgs/2.png) ![Wordle Image](/imgs/3.png)
  # Wordle Game Documentation
 ## Abbreviations
 1. **cls**: Command to clear the screen in the command-line interface (CLI). Used in the play\_wordle.py script to clear the screen before displaying the game menu.
