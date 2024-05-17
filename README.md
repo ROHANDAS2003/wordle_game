@@ -1,4 +1,5 @@
-﻿# Wordle Game Documentation
+![Wordle Image](/imgs/1.png)
+ # Wordle Game Documentation
 ## Abbreviations
 1. **cls**: Command to clear the screen in the command-line interface (CLI). Used in the play\_wordle.py script to clear the screen before displaying the game menu.
 1. **txt**: File extension for text files. Used in wordle\_words.txt, which contains a list of words for the game.
